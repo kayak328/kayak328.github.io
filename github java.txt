@@ -20,7 +20,7 @@
 
     <td> <a href=index.html><img src="home.png" width="120" height="86" title="Home" alt="home"></a></td>
 
-    <td><a href=javascripts.html><img src="java.png" width="120" height="86" title="Javascript" alt="Java"></a></td>
+    <td><a href=github java.txt><img src="java.png" width="120" height="86" title="Javascript" alt="Java"></a></td>
 
    
 
