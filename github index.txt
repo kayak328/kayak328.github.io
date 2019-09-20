@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+         <meta charset="utf-8">
+
+                 <link rel="stylesheet" type="text/css" href="style.css">
+
+        <title>Kaya's CSC106 Web Page</title>
+
+    </head>
+
+        <body>
+
+        <body background="Yellow.png">
+
+            <img src="csc106_banner.jpg" alt="Banner"width="1500" height="300">
+
+             <img src="me.jpg" align=right height="200" width="160">
+
+        <tr>
+
+            <table style="width:100%">
+
+             <td><a href=apps.html><img src="apps.png" width="120" height="86" title="appst" alt="apps"></a></td>
+
+             <td> <a href=about.html><img src="about.png" width="120" height="86" title="About" alt="about"></a></td> 
+
+             <td> <a href=index.html><img src="home.png" width="120" height="86" title="Home" alt="home"></a></td>
+
+             <td><a href=javascripts.html><img src="java.png" width="120" height="86" title="Javascript" alt="Java"></a></td>
+
+         </tr>
+
+        <center>
+
+            <h1>Kaya's CSC 106 Web Page</h1>
+
+        </center>
+
+  <h1>Welcome to My Page!</h1>
+
+  <br><br>
+
+    <p1>Hi my name is Kaya, I am a computer science major at University of Rhode Island. This is my Web Page for my CSC106 Fall 2019 class. There are many features to this web page including: a apps page, an about page, a home tab, and a java page. Thank you for visiting!
+
+    </p1>
+
+ 
+
+</body>
+
+
+
+</html>
